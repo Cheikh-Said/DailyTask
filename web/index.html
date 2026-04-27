@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Recommender - Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a> | 
+        <a href="add_paper.html">Add Paper</a> | 
+        <a href="add_user.html">Add User</a> | 
+        <a href="add_feedback.html">Add Feedback</a>
+    </nav>
+    <hr>
+    
+    <h1>Paper Recommendations</h1>
+    <p>Enter a User ID to get AI paper recommendations.</p>
+    
+    <div class="form-container">
+        <input type="text" id="rec-user-id" placeholder="User ID (e.g., user1)">
+        <button id="btn-recommend">Recommend</button>
+        <button id="btn-rank">Top 5 Ranked</button>
+    </div>
+
+    <div id="recommendations-results" class="results">
+        <p>Results will appear here...</p>
+    </div>
+
+    <div id="toast-container"></div>
+    <script src="app.js"></script>
+</body>
+</html>

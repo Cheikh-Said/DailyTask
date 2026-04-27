@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add User - AI Recommender</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a> | 
+        <a href="add_paper.html">Add Paper</a> | 
+        <a href="add_user.html">Add User</a> | 
+        <a href="add_feedback.html">Add Feedback</a>
+    </nav>
+    <hr>
+    
+    <h1>Add New User</h1>
+    
+    <form id="form-add-user" class="simple-form">
+        <label>User ID:</label>
+        <input type="text" id="user-id" required>
+        
+        <label>Interests (comma-separated):</label>
+        <input type="text" id="user-interests" required>
+        
+        <label>Preferred Authors (comma-separated, optional):</label>
+        <input type="text" id="user-authors">
+        
+        <label>Excluded Topics (comma-separated, optional):</label>
+        <input type="text" id="user-excluded">
+        
+        <br>
+        <button type="submit">Submit User</button>
+    </form>
+
+    <div id="toast-container"></div>
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+P1|Attention Is All You Need|deep_learning,transformer,attention,nlp|2017|Vaswani,Shazeer,Parmar,Uszkoreit
+P2|BERT: Pre-training of Deep Bidirectional Transformers|nlp,transformer,bert,pretraining|2018|Devlin,Chang,Lee
+P3|Generative Adversarial Networks|gan,deep_learning,generative,unsupervised|2014|Goodfellow,Pouget-Abadie,Mirza
+P4|Deep Residual Learning for Image Recognition|cnn,resnet,deep_learning,computer_vision|2016|He,Zhang,Ren,Sun
+P5|ImageNet Classification with Deep CNNs|cnn,alexnet,deep_learning,computer_vision|2012|Krizhevsky,Sutskever,Hinton
+P6|Playing Atari with Deep RL|reinforcement_learning,deep_learning,q_learning,atari|2013|Mnih,Kavukcuoglu,Silver
+P7|Mastering the Game of Go with Deep Neural Networks|reinforcement_learning,deep_learning,alpha_go,game_ai|2016|Silver,Huang,Maddison
+P8|Word2Vec: Efficient Estimation of Word Representations|nlp,word2vec,embedding,representation_learning|2013|Mikolov,Chen,Corrado,Dean
+P9|GloVe: Global Vectors for Word Representation|nlp,glove,embedding,representation_learning|2014|Pennington,Socher,Manning
+P10|Sequence to Sequence Learning with Neural Networks|nlp,seq2seq,translation,lstm|2014|Sutskever,Vinyals,Le
+P11|Dropout: A Simple Way to Prevent Overfitting|regularization,dropout,deep_learning,neural_network|2012|Srivastava,Hinton,Krizhevsky
+P12|Batch Normalization: Accelerating Deep Network Training|normalization,batch_norm,deep_learning,optimization|2015|Ioffe,Szegedy
+P13|Adam: A Method for Stochastic Optimization|optimization,adam,gradient_descent,deep_learning|2015|Kingma,Ba
+P14|The Unreasonable Effectiveness of Recurrent Neural Networks|rnn,nlp,sequence_modeling,generative|2015|Karpathy
+P15|Neural Machine Translation by Jointly Learning to Align and Translate|nlp,attention,machine_translation,seq2seq|2015|Bahdanau,Cho,Bengio
+P16|Very Deep Convolutional Networks for Large-Scale Image Recognition|cnn,vgg,computer_vision,deep_learning|2015|Simonyan,Zisserman
+P17|Faster R-CNN: Towards Real-Time Object Detection|object_detection,cnn,faster_rcnn,computer_vision|2015|Ren,He,Girshick,Sun
+P18|You Only Look Once: Unified Real-Time Object Detection|object_detection,yolo,cnn,computer_vision|2016|Redmon,Divvala,Girshick
+P19|Human-Level Control Through Deep RL|reinforcement_learning,deep_learning,dqn,atari|2015|Mnih,Kavukcuoglu,Silver
+P20|A Survey on Transfer Learning|transfer_learning,survey,machine_learning,domain_adaptation|2010|Pan,Yang
+P21|Graph Neural Networks: A Review|gnn,graph_neural_network,survey,deep_learning|2020|Zhou,Cui,Hu,Zhang
+P22|Proximal Policy Optimization Algorithms|reinforcement_learning,ppo,policy_gradient,optimization|2017|Schulman,Wolski,Dhariwal
+P23|Language Models are Few-Shot Learners|gpt3,nlp,few_shot,language_model|2020|Brown,Mann,Ryder,Subbiah
+P24|An Image is Worth 16x16 Words: Transformers for Image Recognition|vision_transformer,transformer,computer_vision,deep_learning|2021|Dosovitskiy,Beyer,Kolesnikov
+P25|Denoising Diffusion Probabilistic Models|diffusion,generative,deep_learning,score_matching|2020|Ho,Jain,Abbeel
